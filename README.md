@@ -1,4 +1,4 @@
-# Address Book using File Handaling
+# Record Book using File Handaling
 Console base AddressBook in python. Addressbook have persistent storage in textual file. Addressbook keeps record of contacts.
 
 ## Features:
